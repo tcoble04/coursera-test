@@ -4,4 +4,4 @@ title: "Thomas Coble, Entrepreneur, Launches Site"
 date: 2024-03-11
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be. But I'm also having technical difficulties. Aha shit finally works!
